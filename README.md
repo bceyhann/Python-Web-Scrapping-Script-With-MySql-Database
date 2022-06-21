@@ -2,6 +2,8 @@
 
  This script is made for scrap exploit names and the links that contains definition on "https://www.vulnerability-lab.com/" and store scrapped data to MySql Database.
  
+ # Easy to configure for any website...
+ 
 # Requirements
 - Python 3.X
 - MySql Server
@@ -17,4 +19,4 @@
 - Scraps desired data and inserts into the table.
 - If data already exsists passes the insertion.
 
-# Easy to configure for any website...
+
